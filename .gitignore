@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Competition data (must not be redistributed)
+data/*.csv
+Data/
+
+# Generated submissions
+submissions/
+
+# Local models
+*.joblib
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
